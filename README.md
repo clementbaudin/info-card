@@ -1,3 +1,6 @@
+# Info card by Clément
+[Check the app here](https://clementbaudin.github.io/info-card)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
