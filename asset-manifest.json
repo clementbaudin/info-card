@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/info-card/static/css/main.8504d8e3.css",
-    "main.js": "/info-card/static/js/main.1d0ab601.js",
+    "main.css": "/info-card/static/css/main.20b9a9fc.css",
+    "main.js": "/info-card/static/js/main.706e172f.js",
     "static/js/787.25363af2.chunk.js": "/info-card/static/js/787.25363af2.chunk.js",
     "static/media/photo-cb.jpg": "/info-card/static/media/photo-cb.0d5f955f40838a3c762b.jpg",
-    "static/media/instagram-icon.svg": "/info-card/static/media/instagram-icon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
-    "static/media/github-icon.svg": "/info-card/static/media/github-icon.23d6dfa78140e8017f08351385915806.svg",
-    "static/media/twitter-icon.svg": "/info-card/static/media/twitter-icon.3f40423293e1813898c7e26f729a0705.svg",
-    "static/media/linkedin-logo.svg": "/info-card/static/media/linkedin-logo.629bf92ee99b6aa01a5c2869b2d41378.svg",
-    "static/media/facebook-icon.svg": "/info-card/static/media/facebook-icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "static/media/github-icon.svg": "/info-card/static/media/github-icon.45dd1bad787a953fa333b5c76b751aae.svg",
+    "static/media/CV-logo.svg": "/info-card/static/media/CV-logo.47dde9d231a9ea2f4b81ca335aa5b8b7.svg",
+    "static/media/linkedin-logo.svg": "/info-card/static/media/linkedin-logo.ae790c645bedc598ec45f81a12fb0179.svg",
     "index.html": "/info-card/index.html",
-    "static/media/mail-logo.svg": "/info-card/static/media/mail-logo.341d1e767b26e2540702fb63676d4501.svg",
-    "main.8504d8e3.css.map": "/info-card/static/css/main.8504d8e3.css.map",
-    "main.1d0ab601.js.map": "/info-card/static/js/main.1d0ab601.js.map",
+    "main.20b9a9fc.css.map": "/info-card/static/css/main.20b9a9fc.css.map",
+    "main.706e172f.js.map": "/info-card/static/js/main.706e172f.js.map",
     "787.25363af2.chunk.js.map": "/info-card/static/js/787.25363af2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8504d8e3.css",
-    "static/js/main.1d0ab601.js"
+    "static/css/main.20b9a9fc.css",
+    "static/js/main.706e172f.js"
   ]
 }
