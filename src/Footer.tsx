@@ -7,15 +7,17 @@ import github from './github-icon.svg';
 function Footer() {
     return (
         <div className="footer">
-            <a href="https://twitter.com/clement_baudin">
+{/*
+            <a href="https://twitter.com/">
                 <img src={twitter} alt="twitter icon"/>
             </a>
-            <a href="https://www.facebook.com/clement.baudin.9">
+            <a href="https://www.facebook.com/">
                 <img src={fb} alt="facebook icon"/>
             </a>
-            <a href="https://www.instagram.com/clement_baudin">
+            <a href="https://www.instagram.com/">
                 <img src={insta} alt="instagram icon"/>
             </a>
+*/}
             <a href="https://github.com/clementbaudin">
                 <img src={github} alt="github icon"/>
             </a>

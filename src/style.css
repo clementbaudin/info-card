@@ -36,6 +36,7 @@ body {
 
 .info--position {
   color: #F3BF99;
+  margin-top: 5px;
 }
 
 .info--details a {
@@ -73,6 +74,11 @@ body {
   color: #374151;
 }
 
+.button--resume {
+  background-color: white;
+  color: #374151;
+}
+
 .button--linkedin {
   background-color: #5093E2;
   color: white;
@@ -90,6 +96,10 @@ body {
   margin-top: 5px;
   font-size: small;
   color: #DCDCDC;
+}
+
+.about .strong {
+  font-weight: bold;
 }
 
 .footer {
