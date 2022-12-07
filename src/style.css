@@ -112,3 +112,13 @@ body {
   margin-top: 35px;
 }
 
+.location {
+  margin-bottom: -10px;
+}
+.location img {
+  height: 1rem;
+  display: inline;
+  width: auto;
+  vertical-align: bottom;
+}
+
